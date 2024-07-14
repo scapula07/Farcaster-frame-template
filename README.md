@@ -2,6 +2,8 @@
 
 A Farcaster frame that allows users to mint NFTs on solana directly to their wallets or email after recasting and liking the cast. Check out the [blog] for more details on how to create this frame and check out this [cast](https://warpcast.com/avneesh/0x7dc70d75) to see the frame in action.
 
+This project was built for the Encode solana hackathon
+
 ## Tools
 
 Tools used in this project are:
